@@ -27,3 +27,7 @@ Looking through the code you can see there are no "alt" attributes to the images
 ### 4 - Changed tags to include more semantic HTML attributes
 
 I have replaced a few div tags with more semantic HTML attributes. I have also included the header, main, body and footer of the webpages lie and have put a description of this on the code. I have also included different sections which can help differentiate the different segments on the webpage.
+
+### 5 - Removed duplicate class names in CSS stylesheet
+
+There was a few class names which were duplicated, therefore I removed these and replaced them with a single class name.
