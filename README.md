@@ -20,6 +20,8 @@ The above code was missing the id element, which stopped the "Search Engine Opti
 
 <img src="./assets/screenshots/search-engine-optimization-after.jpg">
 
+If user now presses Social Engine Optimization on top of page this leads him to Social Engine Optimization on the page.
+
 ### 3 - Adding ALT attributes to images
 
 Looking through the code you can see there are no "alt" attributes to the images on the webpage. I have gone through each image and added an alt attribute. This can make it clear to users the purpose of the image.
@@ -30,4 +32,12 @@ I have replaced a few div tags with more semantic HTML attributes. I have also i
 
 ### 5 - Removed duplicate class names in CSS stylesheet
 
-There was a few class names which were duplicated, therefore I removed these and replaced them with a single class name.
+There was a few class names which were duplicated, therefore I removed these and replaced them with a single class name, making stylesheet look more cleaner.
+
+<!----Ask how to do git pull on github then do 2 pulls----->
+
+### 6 - Gave code a logical order
+
+Code was not in logical order, which has now been changed to make it logical order.
+
+### 7 - GitHub Link
