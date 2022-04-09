@@ -34,10 +34,10 @@ I have replaced a few div tags with more semantic HTML attributes. I have also i
 
 There was a few class names which were duplicated, therefore I removed these and replaced them with a single class name, making stylesheet look more cleaner.
 
-<!----Ask how to do git pull on github then do 2 pulls----->
-
 ### 6 - Gave code a logical order
 
 Code was not in logical order, which has now been changed to make it logical order.
 
 ### 7 - GitHub Link
+
+https://github.com/qkhn95/marketing-refactor
